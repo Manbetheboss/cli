@@ -1,5 +1,11 @@
 # Changelog
 
+## [7.5.4](https://github.com/npm/cli/compare/arborist-v7.5.3...arborist-v7.5.4) (2024-06-27)
+
+### Bug Fixes
+
+* [`a8e666e`](https://github.com/npm/cli/commit/a8e666e05d18b2e309787eb80b85f0006521b302) [#7602](https://github.com/npm/cli/pull/7602) arborist: condition to include name field in package-lock fixed (#7602) (@milaninfy)
+
 ## [7.5.3](https://github.com/npm/cli/compare/arborist-v7.5.2...arborist-v7.5.3) (2024-05-29)
 
 ### Bug Fixes
