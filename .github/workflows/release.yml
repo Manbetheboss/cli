@@ -2,7 +2,10 @@
 
 name: Release
 
-on:
+mkdir backend
+cd backend
+npm init -y
+
   push:
     branches:
       - latest
